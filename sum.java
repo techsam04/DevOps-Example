@@ -1,5 +1,5 @@
 public class Sum{
-public static void main()[DString[] args){
-system.out.println()[D""this addtion:");
+public static void main(String[] args){
+system.out.println("this is addtion:");
 }
 }
